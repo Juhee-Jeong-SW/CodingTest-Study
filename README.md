@@ -1,6 +1,6 @@
 ## 💻 코딩테스트 스터디
 
-#### [백준](https://www.acmicpc.net/) | [프로그래머스](https://programmers.co.kr/learn/challenges) | [이코테](https://github.com/ndb796/python-for-coding-test)
+#### [백준](https://www.acmicpc.net/) | [프로그래머스](https://programmers.co.kr/learn/challenges) | [이것이 코딩테스트다](https://github.com/ndb796/python-for-coding-test)
 -------------------------------------
 ### 📚 진행 일시
 - 2021.05.24 ~
